@@ -1,2 +1,3 @@
 # hello-world
 First practice repository
+Hi this is my first time using github...it seems pretty cool right now but I haven't actually tried to do any real work yet! We will see how it turns out...
